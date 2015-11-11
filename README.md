@@ -38,8 +38,7 @@ Published in: -
 #          4) L1-norm of the beta
 #          5) Condition number of (X'X)
 # -----------------------------------------------------------------------------
-![Picture1](Tree_OJ1.JPG)
-
+![Picture1](1.PNG)
 
 # Clear variables and close windows
 rm(list = ls(all = TRUE))
