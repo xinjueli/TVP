@@ -16,26 +16,26 @@ Keywords : 'LASSO, lasso shrinkage, L1-norm penalty, change point, bic, euclidea
 regression, simulation, plot, visualization, historical moving window,time-series, estimation,
 L1-norm, error, beta, multi dimensional, multivariate normal'
 
-See also: 'MVAgrouplasso, MVAlassocontour, MVAlassoregress, SMSlassocar, SMSlassoridge,quantilelasso, 
+See also : 'MVAgrouplasso, MVAlassocontour, MVAlassoregress, SMSlassocar, SMSlassoridge,quantilelasso, 
 FASTECChinaTemper2008, FASTECSAMCVaR, TEDAS_strategies'
 
-Author: 'Lenka Zbonakova'
+Author : Lenka Zbonakova
 
 Submitted: 
 
-Input: ' n.obs   - Number of observations to simulate
+Input:   n.obs   - Number of observations to simulate
          n.param - Number of parameters to simulate
          n.sim   - Number of simulations
          w       - Size of each moving window
          seed1   - Seed to simulate design matrix X
-         seed2   - Seed to simulate error terms'
+         seed2   - Seed to simulate error terms
 
-Example:'Time series
+Example: Time series
          1) Lambda
          2) Cardinality of q
          3) L2-norm of the residuals
          4) L1-norm of the beta
-         5) Condition number of (X'X)'
+         5) Condition number of (X'X)
 
 ```
 ![Picture1](1.png)
