@@ -4,7 +4,7 @@
 
 Name of QuantLet: LCPvariance
 
-Published in: - 
+  Published in:Unpublished
 # -----------------------------------------------------------------------------
 # Description: Performs LASSO regression in a moving window by using BIC criterion to choose penalty 
 #              parameter (lambda). The simulated data contains a break point after which the 
