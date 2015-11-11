@@ -38,7 +38,7 @@ Published in: -
 #          4) L1-norm of the beta
 #          5) Condition number of (X'X)
 # -----------------------------------------------------------------------------
-![Picture1](1.PNG)
+![Picture1](https://github.com/xinjueli/TVP/blob/master/1.png)
 
 # Clear variables and close windows
 rm(list = ls(all = TRUE))
